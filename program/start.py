@@ -84,7 +84,7 @@ async def start_(client: Client, message: Message):
                         "[► Kanal Destek ◄]", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ],
-                [InlineKeyboardButton("🌐 Sohbet Grubu", url="https://t.me/gycyolcu")],
+                [InlineKeyboardButton("🌐 Sohbet Grubu", url="https://t.me/kizilsancak06")],
             ]
         ),
         disable_web_page_preview=True,

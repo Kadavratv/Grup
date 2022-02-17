@@ -45,7 +45,7 @@ async def cbstart(_, query: CallbackQuery):
                     ),
                 ],
                 [
-                    InlineKeyboardButton("🌐 Sohbet grubu", url="https://t.me/gycyolcu"),
+                    InlineKeyboardButton("🌐 Sohbet grubu", url="https://t.me/kizilsancak06"),
                 ],
             ]
         ),

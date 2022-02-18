@@ -279,8 +279,8 @@ async def lyrics(c: Client, message):
                 parse_mode="html",
             )
         if len(result) > 4030:
-            TELEGRAPH_AUTHOR_NAME = "Legend Müzik"
-            TELEGRAPH_AUTHOR_LİNK = "https://t.me/G4rip"
+            TELEGRAPH_AUTHOR_NAME = "BestClan Müzik"
+            TELEGRAPH_AUTHOR_LİNK = "https://t.me/BestClanV2"
             try:
                 await rep.edit(
                     f"<b> Şarkı sözleri fazla uzun, sizin için Telegraph'a yapıştırıyorum... Lütfen bekleyin. </b>"
